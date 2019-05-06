@@ -1,5 +1,0 @@
-#EXTM3U 
-#################ABERTOS#################
-#EXTINF:-1 tvg-logo="https://odia.ig.com.br/_midias/jpg/2018/03/02/700x470/1_logo_da_globo11-6010009.jpg" group-title="GLOBO",
-
-http://cata.kastream.biz:8081/edge/ver100/chunks.m3u8?nimblesessionid=236186&wmsAuthSign=c2VydmVyX3RpbWU9NS81LzIwMTkgMTE6MTM6MTUgUE0maGFzaF92YWx1ZT00VWNhMFd3QXZUTzFUT2pZa1EzYWdBPT0mdmFsaWRtaW51dGVzPTEyMA==
